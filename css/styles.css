@@ -1,0 +1,28 @@
+
+.navigationname{
+    margin-left: 5%;
+}
+.bannermain{
+    background-image: url(/images/slider1.png);
+    background-size: cover;
+    padding: 200px 0;
+}
+.aboutme{
+    margin-top: 5%;
+}
+.dineshimage{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:14%;
+}
+.card{
+    margin-bottom: 15px;
+}
+.css{
+    width: 54px;
+}
+.htmlbottom{
+    margin-bottom: 39px;
+}
